@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 # 🧐 About Me
-Hi, I am a PhD student of the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
+Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
 
-
+👋 CONTACT ME: jfu13 AT stevens.edu
 [//]: # (From March 2023 to November 2023, I worked as a Research Assistant at the [ASTAPLE lab]&#40;https://www.astaple.com/&#41; of Hong Kong Polytechnic University, under the supervision of [Prof. Haibo Hu]&#40;https://haibohu.org/&#41; and [Dr. Qingqing Ye]&#40;https://www.qingqingye.net/&#41;. )
+
+
 
 ### 🤔 Research Interests:
 * Differential Privacy.
@@ -31,6 +33,7 @@ Hi, I am a PhD student of the [Stevens Institute of Technology](https://www.stev
 
 <div class="scrollable">
  <ul>
+<li><strong>2024.09</strong>: &nbsp;🎉 I have became a phd student at Stevens Institute of Technology. </li>
 <li><strong>2024.08</strong>: &nbsp;🎉 One paper is accepted by BIBM'24. </li>
 <li><strong>2024.05</strong>: &nbsp;🎉 One co-first author paper is accepted by ICIC'24. </li>
 <li><strong>2024.03</strong>: &nbsp;🎉 One paper is accepted by ICDE'24. </li> 
@@ -96,8 +99,6 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 [//]: # (</div>)
 
 
-
-
 ### Preprint
 * [Differentially Private Federated Learning: A Systematic Review.](https://arxiv.org/abs/2405.08299)\
 **Jie Fu**, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao \
@@ -139,8 +140,12 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 
 # ✒️ Professional Service
 Journal Reviewer
-- Furure Generation Computer Systems  **(SCI Q1)**
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
+- Furure Generation Computer Systems
 
+Conference Reviewer
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+- International Joint Conference on Neural Networks (IJCNN)
 
 # ⚽ Hobbies
 - Soccer, college team captain. 
