@@ -139,7 +139,7 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 # ✒️ Professional Service
 Journal Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
-- Furure Generation Computer Systems
+- Future Generation Computer Systems
 
 Conference Reviewer
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
