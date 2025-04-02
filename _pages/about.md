@@ -159,13 +159,17 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
 <style>
    .scrollable2 {
-    max-height: 80px; 
+    max-height: 120px; 
     overflow-y: scroll; 
    }
  </style>
 
  <div class="scrollable2">
  <ul>
+ <li><strong>2025.01</strong>:&nbsp;《孤独娱乐》- 林俊杰 </li> 
+ <li><strong>2024.12</strong>:&nbsp;《爱错》- 王力宏 </li>
+ <li><strong>2024.11</strong>:&nbsp;《虎口脱险》- 老狼 </li>
+ <li><strong>2024.10</strong>:&nbsp;《别怕变老》- 王以太 </li>
  <li><strong>2024.09</strong>:&nbsp;《太阳照常升起》- 陈奕迅 </li>
  <li><strong>2024.08</strong>:&nbsp;《达尔文》- 蔡健雅 </li>
  <li><strong>2024.07</strong>:&nbsp;《梨花又开放》- 韩红 </li>
@@ -182,4 +186,4 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
 </div>
 
-Last updated on: 2024.09.30.
+Last updated on: 2025.01
