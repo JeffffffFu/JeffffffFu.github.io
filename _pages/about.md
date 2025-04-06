@@ -129,7 +129,7 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 - Outstanding Master's Thesis of East China Normal University, 2024.
 
 # 💻 Internships
-- *2024.04 - Now*, [INF](https://www.infly.cn/), LLM Intern, Shanghai.
+- *2024.04 - 2024.09*, [INF](https://www.infly.cn/), LLM Intern, Shanghai.
 - *2024.01 - 2024.04*, [Hokkaidao University](https://www.hokudai.ac.jp/), Research Assistant, Hokkaidao.
 - *2023.03 - 2023.11*, [PolyU](https://www.polyu.edu.hk/), Research Assistant, Hongkong.
 - *2022.02 - 2023.02*, [Geely](https://www.geelydt.com/), Blockchain Privacy Computing Intern, Shanghai.
