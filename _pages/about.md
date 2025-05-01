@@ -17,6 +17,7 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 ### 🤔 Research Interests:
 * Differential Privacy.
 * Federated Learning.
+* Privacy in GNNs
 * Machine Unlearning.
 * Trustworthy Machine Learning (fairness, privacy and robustness).
 
@@ -31,6 +32,7 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 
 <div class="scrollable">
  <ul>
+<li><strong>2024.09</strong>: &nbsp;🎉 One paper is accepted by ICML'25. </li>
 <li><strong>2024.09</strong>: &nbsp;🎉 I have became a PhD student at Stevens Institute of Technology. </li>
 <li><strong>2024.08</strong>: &nbsp;🎉 One paper is accepted by BIBM'24. </li>
 <li><strong>2024.05</strong>: &nbsp;🎉 One co-first author paper is accepted by ICIC'24. </li>
@@ -43,6 +45,10 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 </div>
 
 # 📝 Publications 
+
+* Differentially Private Synthetic Image Generation with Few-Shot Data and Generative APIs\
+Jianqing Zhang, Yan Liu, **Jie Fu**, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang. \
+**The International Conference on Machine Learning (ICML), 2025**
 
 * [Single-cell Curriculum Learning-based Deep Graph Embedding Clustering.](https://arxiv.org/pdf/2408.10511)\
 Huifa Li, **Jie Fu**, Xinpeng Ling, Zhiyu Sun, Kuncan Wang, Zhili Chen. \
@@ -187,4 +193,4 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
 </div>
 
-Last updated on: 2025.01
+Last updated on: 2025.05
