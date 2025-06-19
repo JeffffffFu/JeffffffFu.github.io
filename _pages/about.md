@@ -32,6 +32,7 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 
 <div class="scrollable">
  <ul>
+<li><strong>2024.09</strong>: &nbsp;🎉 One paper is accepted by IJICS. </li>
 <li><strong>2024.09</strong>: &nbsp;🎉 One paper is accepted by ICML'25. </li>
 <li><strong>2024.09</strong>: &nbsp;🎉 I have became a PhD student at Stevens Institute of Technology. </li>
 <li><strong>2024.08</strong>: &nbsp;🎉 One paper is accepted by BIBM'24. </li>
@@ -45,6 +46,10 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 </div>
 
 # 📝 Publications 
+
+* Secure logistic regression training based on fully homomorphic encryption\
+Shiwen Wei; Zhili Chen; Xin Chen; Benchang Dong; Yizheng Ren; **Jie Fu**. \
+**International Journal of Information and Computer Security (IJICS), 2025**
 
 * Differentially Private Synthetic Image Generation with Few-Shot Data and Generative APIs\
 Jianqing Zhang, Yan Liu, **Jie Fu**, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang. \
