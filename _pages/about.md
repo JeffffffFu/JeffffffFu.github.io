@@ -51,7 +51,7 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 Shiwen Wei; Zhili Chen; Xin Chen; Benchang Dong; Yizheng Ren; **Jie Fu**. \
 **International Journal of Information and Computer Security (IJICS), 2025**
 
-* [PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs.] (https://arxiv.org/abs/2506.05407)\
+* [PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs.](https://arxiv.org/abs/2506.05407)\
 Jianqing Zhang, Yan Liu, **Jie Fu**, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang. \
 **The International Conference on Machine Learning (ICML), 2025**
 
