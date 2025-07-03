@@ -32,8 +32,9 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 
 <div class="scrollable">
  <ul>
-<li><strong>2024.09</strong>: &nbsp;🎉 One paper is accepted by IJICS. </li>
-<li><strong>2024.09</strong>: &nbsp;🎉 One paper is accepted by ICML'25. </li>
+<li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by ACM CCS'25 </li>
+<li><strong>2025.06</strong>: &nbsp;🎉 One paper is accepted by IJICS. </li>
+<li><strong>2025.04</strong>: &nbsp;🎉 One paper is accepted by ICML'25. </li>
 <li><strong>2024.09</strong>: &nbsp;🎉 I have became a PhD student at Stevens Institute of Technology. </li>
 <li><strong>2024.08</strong>: &nbsp;🎉 One paper is accepted by BIBM'24. </li>
 <li><strong>2024.05</strong>: &nbsp;🎉 One co-first author paper is accepted by ICIC'24. </li>
