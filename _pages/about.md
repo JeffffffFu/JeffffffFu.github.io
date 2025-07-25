@@ -47,6 +47,9 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 </div>
 
 # 📝 Publications 
+* Safeguarding Graph Neural Networks against Topology Inference Attacks\
+**Jie Fu**, Yuan Hong, Zhili Chen and Wendy Hui Wang. \
+**In Proceedings of the 32nd ACM Conference on Computer and Communications Security (ACM CCS), 2025**
 
 * Secure logistic regression training based on fully homomorphic encryption\
 Shiwen Wei; Zhili Chen; Xin Chen; Benchang Dong; Yizheng Ren; **Jie Fu**. \
