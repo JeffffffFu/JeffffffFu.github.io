@@ -154,6 +154,7 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 # ✒️ Professional Service
 Journal Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
+- IEEE Transactions on Information Forensics and Security (TIFS)
 - Future Generation Computer Systems
 
 Conference Reviewer
