@@ -181,6 +181,7 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
  <div class="scrollable2">
  <ul>
+ <li><strong>2025.07</strong>:&nbsp;《痛爱》- 容祖儿 </li> 
  <li><strong>2025.04</strong>:&nbsp;《不称职的天才》- 王以太 </li> 
  <li><strong>2025.01</strong>:&nbsp;《孤独娱乐》- 林俊杰 </li> 
  <li><strong>2024.12</strong>:&nbsp;《爱错》- 王力宏 </li>
@@ -202,4 +203,4 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
 </div>
 
-Last updated on: 2025.05
+Last updated on: 2025.08
