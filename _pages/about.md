@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 🧐 About Me
-Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
+Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
 
 👋 CONTACT ME: jfu13 AT stevens.edu
 
@@ -32,7 +32,9 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 
 <div class="scrollable">
  <ul>
+<li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by IEEE ICDM'25 </li>
 <li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by ACM CCS'25 </li>
+<li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by USIENX Security'25 </li>
 <li><strong>2025.06</strong>: &nbsp;🎉 One paper is accepted by IJICS. </li>
 <li><strong>2025.04</strong>: &nbsp;🎉 One paper is accepted by ICML'25. </li>
 <li><strong>2024.09</strong>: &nbsp;🎉 I have became a PhD student at Stevens Institute of Technology. </li>
@@ -47,13 +49,23 @@ Hi, I am a PhD student at the [Stevens Institute of Technology](https://www.stev
 </div>
 
 # 📝 Publications 
+*EC-LDA: Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression\
+Tong Cheng, **Jie Fu**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Junqing Gong. \
+**25th IEEE International Conference on Data Mining (ICDM), 2025.**
+  
 * Safeguarding Graph Neural Networks against Topology Inference Attacks\
 **Jie Fu**, Yuan Hong, Zhili Chen and Wendy Hui Wang. \
 **In Proceedings of the 32nd ACM Conference on Computer and Communications Security (ACM CCS), 2025**
 
-* Secure logistic regression training based on fully homomorphic encryption\
+
+* [Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective](https://www.usenix.org/conference/usenixsecurity25/presentation/naderloui)\
 Shiwen Wei; Zhili Chen; Xin Chen; Benchang Dong; Yizheng Ren; **Jie Fu**. \
+**34th USENIX Security Symposium (USENIX Security), 2025.**
+
+* Secure logistic regression training based on fully homomorphic encryption\
+Nima Naderloui, Shenao Yan, Binghui Wang, **Jie Fu**, Wendy Hui Wang, Weiran Liu and Yuan Hong. \
 **International Journal of Information and Computer Security (IJICS), 2025**
+
 
 * [PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs.](https://arxiv.org/abs/2506.05407)\
 Jianqing Zhang, Yan Liu, **Jie Fu**, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang. \
@@ -204,4 +216,4 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
 </div>
 
-Last updated on: 2025.08
+Last updated on: 2025.09
