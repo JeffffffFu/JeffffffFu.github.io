@@ -59,11 +59,11 @@ Tong Cheng, **Jie Fu**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Ju
 
 
 * [Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective](https://www.usenix.org/conference/usenixsecurity25/presentation/naderloui)\
-Shiwen Wei; Zhili Chen; Xin Chen; Benchang Dong; Yizheng Ren; **Jie Fu**. \
+Nima Naderloui, Shenao Yan, Binghui Wang, **Jie Fu**, Wendy Hui Wang, Weiran Liu and Yuan Hong. \
 **34th USENIX Security Symposium (USENIX Security), 2025.**
 
 * Secure logistic regression training based on fully homomorphic encryption\
-Nima Naderloui, Shenao Yan, Binghui Wang, **Jie Fu**, Wendy Hui Wang, Weiran Liu and Yuan Hong. \
+Shiwen Wei; Zhili Chen; Xin Chen; Benchang Dong; Yizheng Ren; **Jie Fu**. \
 **International Journal of Information and Computer Security (IJICS), 2025**
 
 
