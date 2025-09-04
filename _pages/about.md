@@ -49,7 +49,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 </div>
 
 # 📝 Publications 
-*EC-LDA: Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression\
+* EC-LDA: Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression\
 Tong Cheng, **Jie Fu**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Junqing Gong. \
 **25th IEEE International Conference on Data Mining (ICDM), 2025.**
   
