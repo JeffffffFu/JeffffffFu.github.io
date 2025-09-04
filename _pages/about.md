@@ -34,7 +34,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
  <ul>
 <li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by IEEE ICDM'25 </li>
 <li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by ACM CCS'25 </li>
-<li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by USIENX Security'25 </li>
+<li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by USENIX Security'25 </li>
 <li><strong>2025.06</strong>: &nbsp;🎉 One paper is accepted by IJICS. </li>
 <li><strong>2025.04</strong>: &nbsp;🎉 One paper is accepted by ICML'25. </li>
 <li><strong>2024.09</strong>: &nbsp;🎉 I have became a PhD student at Stevens Institute of Technology. </li>
