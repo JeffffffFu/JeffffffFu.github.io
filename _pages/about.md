@@ -53,7 +53,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 Tong Cheng, **Jie Fu**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Junqing Gong. \
 **25th IEEE International Conference on Data Mining (ICDM), 2025.**
   
-* Safeguarding Graph Neural Networks against Topology Inference Attacks\
+* [Safeguarding Graph Neural Networks against Topology Inference Attacks] (https://arxiv.org/abs/2509.05429)\
 **Jie Fu**, Yuan Hong, Zhili Chen and Wendy Hui Wang. \
 **In Proceedings of the 32nd ACM Conference on Computer and Communications Security (ACM CCS), 2025**
 
