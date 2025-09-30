@@ -182,7 +182,7 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
 # 🎧 Monthly Song
 <div>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4U3thcLsoy8Ty9cTv94Ex2?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6uiorYUY2Ahnhli7dbbTnX?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 <style>
@@ -194,6 +194,7 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
  <div class="scrollable2">
  <ul>
+ <li><strong>2025.07</strong>:&nbsp;《许愿》- 古巨基，梁咏琪 </li> 
  <li><strong>2025.07</strong>:&nbsp;《痛爱》- 容祖儿 </li> 
  <li><strong>2025.04</strong>:&nbsp;《不称职的天才》- 王以太 </li> 
  <li><strong>2025.01</strong>:&nbsp;《孤独娱乐》- 林俊杰 </li> 
