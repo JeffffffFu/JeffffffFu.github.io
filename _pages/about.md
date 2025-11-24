@@ -32,6 +32,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 <div class="scrollable">
  <ul>
+<li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by IEEE ACNS'26 </li>
 <li><strong>2025.09</strong>: &nbsp;🎉 One paper is accepted by IEEE ICDM'25 </li>
 <li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by ACM CCS'25 </li>
 <li><strong>2025.06</strong>: &nbsp;🎉 One paper is accepted by USENIX Security'25 </li>
@@ -49,6 +50,10 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 </div>
 
 # 📝 Publications 
+* [FedFDP: Fairness-Aware Federated Learning with Differential Privacy](https://arxiv.org/abs/2402.16028)\
+Xingpeng Ling, **Jie Fu**, Kuncan Wang, Huifa Li, Tong Cheng and Zhili Chen. \
+**24th Internation Conference on Applied Cryptogragy and Network Security, 2026.**
+  
 * [EC-LDA: Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression](https://arxiv.org/abs/2505.15140)\
 Tong Cheng, **Jie Fu**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Junqing Gong. \
 **25th IEEE International Conference on Data Mining (ICDM), 2025.**
@@ -176,9 +181,10 @@ Conference Reviewer
 # ⚽ Hobbies
 - Soccer, college team captain. 
 - Guitar, club guitar instructor of college.
-- Tennis, 3.0.
+- Tennis, 3.5.
+- Snowboarding, blue.
 
-Other activities I engage in include badminton, ski, volleyball, swimming, squash, billiards, chinese chess and so on.
+Other activities I engage in include badminton, ski, snowboarding, volleyball, swimming, squash, billiards, chinese chess and so on.
 
 # 🎧 Monthly Song
 <div>
@@ -218,4 +224,4 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
 </div>
 
-Last updated on: 2025.09
+Last updated on: 2025.11
