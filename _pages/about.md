@@ -15,11 +15,12 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 
 ### 🤔 Research Interests:
-* Differential Privacy.
-* Federated Learning.
+* Differential Privacy
+* Federated Learning
 * Privacy in GNNs
-* Machine Unlearning.
-* Trustworthy Machine Learning (fairness, privacy and robustness).
+* Machine Unlearning
+* Privacy and Safety of LLM
+* Trustworthy Machine Learning (fairness, privacy and robustness)
 
 
 # 🔥 News
@@ -32,7 +33,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 <div class="scrollable">
  <ul>
-<li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by IEEE ACNS'26 </li>
+<li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by ACNS'26 </li>
 <li><strong>2025.09</strong>: &nbsp;🎉 One paper is accepted by IEEE ICDM'25 </li>
 <li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by ACM CCS'25 </li>
 <li><strong>2025.06</strong>: &nbsp;🎉 One paper is accepted by USENIX Security'25 </li>
@@ -52,7 +53,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 # 📝 Publications 
 * [FedFDP: Fairness-Aware Federated Learning with Differential Privacy](https://arxiv.org/abs/2402.16028)\
 Xingpeng Ling, **Jie Fu**, Kuncan Wang, Huifa Li, Tong Cheng and Zhili Chen. \
-**24th Internation Conference on Applied Cryptogragy and Network Security, 2026.**
+**24th Internation Conference on Applied Cryptogragy and Network Security (ACNS), 2026.**
   
 * [EC-LDA: Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression](https://arxiv.org/abs/2505.15140)\
 Tong Cheng, **Jie Fu**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Junqing Gong. \
@@ -184,7 +185,7 @@ Conference Reviewer
 - Tennis, 3.5.
 - Snowboarding, blue.
 
-Other activities I engage in include badminton, ski, snowboarding, volleyball, swimming, squash, billiards, chinese chess and so on.
+Other activities I engage in include badminton, ski, volleyball, swimming, squash, billiards, chinese chess and so on.
 
 # 🎧 Monthly Song
 <div>
