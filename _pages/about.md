@@ -33,6 +33,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 <div class="scrollable">
  <ul>
+<li><strong>2025.12</strong>: &nbsp;🎉 One paper is accepted by ACM Computing Surveys</li>
 <li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by ACNS'26 </li>
 <li><strong>2025.09</strong>: &nbsp;🎉 One paper is accepted by IEEE ICDM'25 </li>
 <li><strong>2025.07</strong>: &nbsp;🎉 One paper is accepted by ACM CCS'25 </li>
@@ -51,6 +52,10 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 </div>
 
 # 📝 Publications 
+* [Differentially Private Federated Learning: A Systematic Review.](https://arxiv.org/abs/2405.08299)\
+**Jie Fu**, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao \
+**ACM Computing Surveys** 
+
 * [FedFDP: Fairness-Aware Federated Learning with Differential Privacy](https://arxiv.org/abs/2402.16028)\
 Xingpeng Ling, **Jie Fu**, Kuncan Wang, Huifa Li, Tong Cheng and Zhili Chen. \
 **24th Internation Conference on Applied Cryptogragy and Network Security (ACNS), 2026.**
@@ -130,14 +135,6 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 [//]: # (</div>)
 
 
-### Preprint
-* [Differentially Private Federated Learning: A Systematic Review.](https://arxiv.org/abs/2405.08299)\
-**Jie Fu**, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao \
-**Submitted to ACM Survey** 
-
-
-* [Truncated Laplace and Gaussian mechanisms of RDP.](https://arxiv.org/abs/2309.12647)\
-**Jie Fu**, Zhiyu Sun, Haitao Liu, Zhili Chen.
 
 
 
@@ -177,13 +174,14 @@ Journal Reviewer
 
 Conference Reviewer
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - International Joint Conference on Neural Networks (IJCNN)
 
 # ⚽ Hobbies
 - Soccer, college team captain. 
 - Guitar, club guitar instructor of college.
 - Tennis, 3.5.
-- Snowboarding, blue.
+- Snowboarding/skiing, blue.
 
 Other activities I engage in include badminton, ski, volleyball, swimming, squash, billiards, chinese chess and so on.
 
