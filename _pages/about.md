@@ -187,7 +187,7 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
 # 🎧 Monthly Song
 <div>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6miFqi5QmTsfXPyXjNnzxA?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0wv8qKNdZpeyUw6ipvy5rQ?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 <style>
@@ -199,6 +199,7 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
  <div class="scrollable2">
  <ul>
+   <li><strong>2025.12</strong>:&nbsp;《Simon》- 丁世光 </li> 
 <li><strong>2025.10</strong>:&nbsp;《心的距离》- 陈奕迅 </li> 
  <li><strong>2025.09</strong>:&nbsp;《许愿》- 古巨基，梁咏琪 </li> 
  <li><strong>2025.07</strong>:&nbsp;《痛爱》（1314容祖儿演唱会）- 容祖儿 </li> 
@@ -223,4 +224,4 @@ Other activities I engage in include badminton, ski, volleyball, swimming, squas
 
 </div>
 
-Last updated on: 2025.11
+Last updated on: 2025.12
