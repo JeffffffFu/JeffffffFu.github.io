@@ -12,6 +12,7 @@ redirect_from:
 Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
 
 👋 CONTACT ME: jfu13 AT stevens.edu
+
 👋 RedNote（小红书）: JeffffffFu
 
 
