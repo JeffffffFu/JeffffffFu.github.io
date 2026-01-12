@@ -183,9 +183,9 @@ Conference Reviewer
 - Soccer, college team captain. 
 - Guitar, club guitar instructor of college.
 - Tennis, 3.5.
-- Snowboarding/skiing, blue.
+- Snowboarding/Skiing, blue.
 
-Other activities I engage in include badminton, ski, volleyball, swimming, squash, billiards, chinese chess and so on.
+Other activities I engage in include badminton, volleyball, swimming, squash, billiards, chinese chess, piano and so on.
 
 # 🎧 Monthly Song
 <div>
