@@ -75,7 +75,7 @@ Tong Cheng, **Jie Fu**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Ju
 Nima Naderloui, Shenao Yan, Binghui Wang, **Jie Fu**, Wendy Hui Wang, Weiran Liu and Yuan Hong. \
 **34th USENIX Security Symposium (USENIX Security), 2025.**
 
-* Secure logistic regression training based on fully homomorphic encryption\
+* [Secure logistic regression training based on fully homomorphic encryption](https://www.inderscienceonline.com/doi/epdf/10.1504/IJICS.2025.150024)\
 Shiwen Wei; Zhili Chen; Xin Chen; Benchang Dong; Yizheng Ren; **Jie Fu**. \
 **International Journal of Information and Computer Security (IJICS), 2025**
 
