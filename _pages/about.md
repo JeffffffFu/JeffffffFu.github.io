@@ -183,13 +183,13 @@ Conference Reviewer
 - Soccer, college team captain. 
 - Guitar, club guitar instructor of college.
 - Tennis, 3.5.
-- Snowboarding/Skiing, blue.
+- Snowboarding (black)/ Skiing(blue).
 
 Other activities I engage in include badminton, volleyball, swimming, squash, billiards, chinese chess, piano and so on.
 
 # 🎧 Monthly Song
 <div>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2GpBrAoCwt48fxjgjlzMd4?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1jQp4mCBDmXr8NMqsMpH8E?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 
@@ -202,6 +202,7 @@ Other activities I engage in include badminton, volleyball, swimming, squash, bi
 
  <div class="scrollable2">
  <ul>
+  <li><strong>2026.02</strong>:&nbsp;《用背脊唱情歌》- 汤令山 </li> 
   <li><strong>2026.01</strong>:&nbsp;《Hotel California》- Eagles </li> 
  <li><strong>2025.12</strong>:&nbsp;《Simon》- 丁世光 </li> 
 <li><strong>2025.10</strong>:&nbsp;《心的距离》- 陈奕迅 </li> 
@@ -228,4 +229,4 @@ Other activities I engage in include badminton, volleyball, swimming, squash, bi
 
 </div>
 
-Last updated on: 2026.01
+Last updated on: 2026.02
