@@ -35,7 +35,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 <div class="scrollable">
  <ul>
-<li><strong>2026.03</strong>: &nbsp;🎉 One paper is accepted by Euro S&P'26</li>
+<li><strong>2026.03</strong>: &nbsp;🎉 One paper is accepted by Euro S &amp; P'26</li>
 <li><strong>2025.12</strong>: &nbsp;🎉 One paper is accepted by ACM Computing Surveys</li>
 <li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by ACNS'26 </li>
 <li><strong>2025.09</strong>: &nbsp;🎉 One paper is accepted by IEEE ICDM'25 </li>
@@ -148,6 +148,7 @@ Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Educations
+- *2024.08 - Now*, PHD, Stevens Institute of Technology, Hoboken, USA. 
 - *2021.09 - 2024.05*, Master, East China Normal University, Shanghai, China. 
 - *2014.09 - 2018.06*, Undergraduate, Huaqiao University, Quanzhou, China. 
 
