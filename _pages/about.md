@@ -58,8 +58,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 # 📝 Publications 
 * Revisiting Privacy Leakage in Machine Unlearning: Membership Inference Beyond the Forgotten Set\
 **Jie Fu**, Nima Naderloui, Da Zhong, Yuan Hong, Wendy Hui Wang\
-**11th IEEE European Symposium on Security and Privacy, 2026** (Acceptance Rate: 50/460=11.7%)
-  
+**11th IEEE European Symposium on Security and Privacy, 2026 (Acceptance Rate: 50/460=11.7%)** 
 * [Differentially Private Federated Learning: A Systematic Review.](https://arxiv.org/abs/2405.08299)\
 **Jie Fu**, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao \
 **ACM Computing Surveys** 
