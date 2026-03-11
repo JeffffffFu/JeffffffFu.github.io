@@ -35,7 +35,8 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 <div class="scrollable">
  <ul>
-<li><strong>2026.03</strong>: &nbsp;🎉 One paper is accepted by Euro S&amp;P'26</li>
+<li><strong>2026.03</strong>: &nbsp;🎉 One paper is accepted by Euro S&amp;P'26 (Acceptance Rate: 50/460=11.7%) </li>
+<li><strong>2026.02</strong>: &nbsp;🎉 One paper is accepted by CSCWD'26 </li>
 <li><strong>2025.12</strong>: &nbsp;🎉 One paper is accepted by ACM Computing Surveys</li>
 <li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by ACNS'26 </li>
 <li><strong>2025.09</strong>: &nbsp;🎉 One paper is accepted by IEEE ICDM'25 </li>
@@ -55,6 +56,10 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 </div>
 
 # 📝 Publications 
+* Revisiting Privacy Leakage in Machine Unlearning: Membership Inference Beyond the Forgotten Set\
+**Jie Fu**, Nima Naderloui, Da Zhong, Yuan Hong, Wendy Hui Wang\
+**11th IEEE European Symposium on Security and Privacy, 2026** (Acceptance Rate: 50/460=11.7%)
+  
 * [Differentially Private Federated Learning: A Systematic Review.](https://arxiv.org/abs/2405.08299)\
 **Jie Fu**, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao \
 **ACM Computing Surveys** 
