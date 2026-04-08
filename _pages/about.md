@@ -70,11 +70,11 @@ Shan Huang, Zhijing Ye, Jiamin Wang, Zhaorui Zhang, **Jie Fu**, Wendy Hui Wang, 
 **ACM Computing Surveys** 
 
 * [FedFDP: Fairness-Aware Federated Learning with Differential Privacy](https://arxiv.org/abs/2402.16028)\
-Xingpeng Ling, **Jie Fu**, Kuncan Wang, Huifa Li, Tong Cheng and Zhili Chen. \
+Xingpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Huifa Li, Tong Cheng and Zhili Chen. \
 **24th Internation Conference on Applied Cryptogragy and Network Security (ACNS), 2026.**
   
 * [EC-LDA: Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression](https://arxiv.org/abs/2505.15140)\
-Tong Cheng, **Jie Fu**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Junqing Gong. \
+Tong Cheng, **Jie Fu (co-corresponding author)**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Junqing Gong. \
 **25th IEEE International Conference on Data Mining (ICDM), 2025.**
   
 * [Safeguarding Graph Neural Networks against Topology Inference Attacks](https://arxiv.org/abs/2509.05429)\
