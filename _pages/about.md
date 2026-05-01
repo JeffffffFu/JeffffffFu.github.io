@@ -35,7 +35,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 <div class="scrollable">
  <ul>
-<li><strong>2026.05</strong>: &nbsp;🎉 I will be a visiting student in [Prof. Yuan Hong]([https://faculty.ecnu.edu.cn/_s43/czl2/main.psp](https://yhongcs.github.io/))' lab during the summer. </li>
+<li><strong>2026.05</strong>: &nbsp;🎉 I will be a visiting student in <a href="https://yhongcs.github.io/">Prof. Yuan Hong</a>' lab during the summer. </li>
 <li><strong>2026.04</strong>: &nbsp;🎉 One paper is accepted by DSN'26 </li>
 <li><strong>2026.03</strong>: &nbsp;🎉 One paper is accepted by Euro S&amp;P'26 (Acceptance Rate: 50/460=11.7%) </li>
 <li><strong>2026.02</strong>: &nbsp;🎉 One paper is accepted by CSCWD'26 </li>
