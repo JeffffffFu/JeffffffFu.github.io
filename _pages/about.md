@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 🧐 About Me
-Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
+Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a visiting student at the University of Connecticut (under the supervision of <a href="https://yhongcs.github.io/">Prof. Yuan Hong</a>).I also have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
 
 👋 CONTACT ME: jfu13 AT stevens.edu
 
@@ -35,6 +35,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.05</strong>: &nbsp;🎉 I will be a visiting student in [Prof. Yuan Hong]([https://faculty.ecnu.edu.cn/_s43/czl2/main.psp](https://yhongcs.github.io/))' lab during the summer. </li>
 <li><strong>2026.04</strong>: &nbsp;🎉 One paper is accepted by DSN'26 </li>
 <li><strong>2026.03</strong>: &nbsp;🎉 One paper is accepted by Euro S&amp;P'26 (Acceptance Rate: 50/460=11.7%) </li>
 <li><strong>2026.02</strong>: &nbsp;🎉 One paper is accepted by CSCWD'26 </li>
@@ -192,6 +193,7 @@ Conference Reviewer
 - International Joint Conference on Neural Networks (IJCNN)
 
 # ⚽ Hobbies
+Out of research, I’m a huge sports enthusiast with a broad range of interests. I’m passionate about sports, especially tennis, soccer and snowboarding. I also engoy music, especially singing while accompanying myself on gituar.
 - Soccer, college team captain. 
 - Guitar, club guitar instructor of college.
 - Tennis, 3.5.
@@ -240,4 +242,4 @@ Other activities I engage in include badminton, volleyball, swimming, squash, bi
 
 </div>
 
-Last updated on: 2026.02
+Last updated on: 2026.05
