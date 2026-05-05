@@ -68,9 +68,9 @@ Shan Huang, Zhijing Ye, Jiamin Wang, Zhaorui Zhang, **Jie Fu**, Wendy Hui Wang, 
   
 * Differentially Private Federated Learning: A Systematic Review. [[PDF](https://dl.acm.org/doi/full/10.1145/3801079)]\
 **Jie Fu**, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao \
-**ACM Computing Surveys** 
+**ACM Computing Surveys (CSUR)** 
 
-* FedFDP: Fairness-Aware Federated Learning with Differential Privacy. [[PDF](https://arxiv.org/abs/2402.16028])\
+* FedFDP: Fairness-Aware Federated Learning with Differential Privacy. [[PDF](https://arxiv.org/abs/2402.16028])]\
 Xingpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Huifa Li, Tong Cheng and Zhili Chen. \
 **24th Internation Conference on Applied Cryptogragy and Network Security (ACNS), 2026.**
   
