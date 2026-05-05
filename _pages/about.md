@@ -62,69 +62,69 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 Shan Huang, Zhijing Ye, Jiamin Wang, Zhaorui Zhang, **Jie Fu**, Wendy Hui Wang, Sheng Di, Xiaodong Yu\
 **The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026**
   
-* Revisiting Privacy Leakage in Machine Unlearning: Membership Inference Beyond the Forgotten Set\
+* Revisiting Privacy Leakage in Machine Unlearning: Membership Inference Beyond the Forgotten Set. [[PDF](https://arxiv.org/abs/2605.01129)]\
 **Jie Fu**, Nima Naderloui, Da Zhong, Yuan Hong, Wendy Hui Wang\
 **11th IEEE European Symposium on Security and Privacy (Euro S&amp;P), 2026 (Acceptance Rate: 50/460=11.7%)**
   
-* [Differentially Private Federated Learning: A Systematic Review.](https://dl.acm.org/doi/full/10.1145/3801079)\
+* Differentially Private Federated Learning: A Systematic Review. [[PDF](https://dl.acm.org/doi/full/10.1145/3801079)]\
 **Jie Fu**, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao \
 **ACM Computing Surveys** 
 
-* [FedFDP: Fairness-Aware Federated Learning with Differential Privacy](https://arxiv.org/abs/2402.16028)\
+* FedFDP: Fairness-Aware Federated Learning with Differential Privacy. [[PDF](https://arxiv.org/abs/2402.16028])\
 Xingpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Huifa Li, Tong Cheng and Zhili Chen. \
 **24th Internation Conference on Applied Cryptogragy and Network Security (ACNS), 2026.**
   
-* [EC-LDA: Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression](https://arxiv.org/abs/2505.15140)\
+* EC-LDA: Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression. [[PDF](https://arxiv.org/abs/2505.15140)]\
 Tong Cheng, **Jie Fu (co-corresponding author)**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Junqing Gong. \
 **25th IEEE International Conference on Data Mining (ICDM), 2025.**
   
-* [Safeguarding Graph Neural Networks against Topology Inference Attacks](https://arxiv.org/abs/2509.05429)\
+* Safeguarding Graph Neural Networks against Topology Inference Attacks. [[PDF](https://arxiv.org/abs/2509.05429)]\
 **Jie Fu**, Yuan Hong, Zhili Chen and Wendy Hui Wang. \
 **In Proceedings of the 32nd ACM Conference on Computer and Communications Security (ACM CCS), 2025**
 
 
-* [Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective](https://www.usenix.org/conference/usenixsecurity25/presentation/naderloui)\
+* Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective. [[PDF](https://www.usenix.org/conference/usenixsecurity25/presentation/naderloui)]\
 Nima Naderloui, Shenao Yan, Binghui Wang, **Jie Fu**, Wendy Hui Wang, Weiran Liu and Yuan Hong. \
 **34th USENIX Security Symposium (USENIX Security), 2025.**
 
-* [Secure logistic regression training based on fully homomorphic encryption](https://www.inderscienceonline.com/doi/epdf/10.1504/IJICS.2025.150024)\
+* Secure logistic regression training based on fully homomorphic encryption. [[PDF](https://www.inderscienceonline.com/doi/epdf/10.1504/IJICS.2025.150024)]\
 Shiwen Wei; Zhili Chen; Xin Chen; Benchang Dong; Yizheng Ren; **Jie Fu**. \
 **International Journal of Information and Computer Security (IJICS), 2025**
 
 
-* [PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs.](https://arxiv.org/abs/2506.05407)\
+* PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs. [[PDF](https://arxiv.org/abs/2506.05407)]\
 Jianqing Zhang, Yan Liu, **Jie Fu**, Yang Hua, Tianyuan Zou, Jian Cao, Qiang Yang. \
 **The International Conference on Machine Learning (ICML), 2025**
 
-* [Single-cell Curriculum Learning-based Deep Graph Embedding Clustering.](https://arxiv.org/pdf/2408.10511)\
+* Single-cell Curriculum Learning-based Deep Graph Embedding Clustering. [[PDF](https://arxiv.org/pdf/2408.10511)]\
 Huifa Li, **Jie Fu**, Xinpeng Ling, Zhiyu Sun, Kuncan Wang, Zhili Chen. \
 **International Conference on Bioinformatics and Biomedicine (BIBM), 2024**
 
-* [DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering.](https://arxiv.org/abs/2311.03410)\
+* DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering. [[PDF](https://arxiv.org/abs/2311.03410)]\
 Huifa Li, **Jie Fu (co-first author)**, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling. \
 **International Conference on Intelligent  Computing (ICIC), 2024**
 
-* [DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release.](https://arxiv.org/abs/2311.14056)\
+* DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release. [[PDF](https://arxiv.org/abs/2311.14056)]\
 **Jie Fu**, Qingqing Ye, Haibo Hu, Zhili Chen, Lulu Wang, Kuncan Wang, Ran Xun.\
 **International Conference on Very Large Data Bases Conference (VLDB), 2024** 
 
 
-* [Differentially Private Graph Neural Networks for Link Prediction.](https://www.comp.hkbu.edu.hk/~xinhuang/publications/pdfs/ICDE24-DP-GNN.pdf) \
+* Differentially Private Graph Neural Networks for Link Prediction. [[PDF](https://www.comp.hkbu.edu.hk/~xinhuang/publications/pdfs/ICDE24-DP-GNN.pdf)] \
 Xun Ran, Qingqing Ye, Haibo Hu, Xin Huang, Jianliang Xu, **Jie Fu**. \
 **IEEE International Conference on Data Engineering (ICDE), 2024** 
 
 
-* [ALI-DPFL: Differentially Private Federated Learning with Adaptive Local Iterations.](https://arxiv.org/abs/2308.10457)\
+* ALI-DPFL: Differentially Private Federated Learning with Adaptive Local Iterations. [[PDF](https://arxiv.org/abs/2308.10457)]\
 Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.\
 **IEEE International Symposium on World of Wireless Mobile and Multimedia Networks (WoWMoM), 2024** 
 
 
-* [Hierarchical federated learning with global differential privacy.](https://www.aimspress.com/aimspress-data/era/2023/7/PDF/era-31-07-190.pdf)\
+* Hierarchical federated learning with global differential privacy. [[PDF](https://www.aimspress.com/aimspress-data/era/2023/7/PDF/era-31-07-190.pdf)]\
 Long Youqun, Jianhui Zhang, Gaoli Wang, **Jie Fu**.\
 **Electronic Research Archive, 2023** 
 
 
-* [Adap DP-FL: Differentially Private Federated Learning with Adaptive Noise.](https://ieeexplore.ieee.org/abstract/document/10063613)\
+* Adap DP-FL: Differentially Private Federated Learning with Adaptive Noise. [[PDF](https://ieeexplore.ieee.org/abstract/document/10063613)]\
 **Jie Fu**, Zhili Chen, Xiao Han.\
 **IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2022** 
 
