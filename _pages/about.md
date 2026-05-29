@@ -58,7 +58,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 </div>
 
 # 📝 Publications 
-* <span style="background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;"> DSN'26 </span> In-Depth Exploration of Differentially Private Quantization for Privacy-Preserving and Communication-Efficient Federated Learning\
+* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">DSN'26</span>  In-Depth Exploration of Differentially Private Quantization for Privacy-Preserving and Communication-Efficient Federated Learning\
 Shan Huang, Zhijing Ye, Jiamin Wang, Zhaorui Zhang, **Jie Fu**, Wendy Hui Wang, Sheng Di, Xiaodong Yu\
 **The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2026**
   
