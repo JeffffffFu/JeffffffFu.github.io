@@ -185,12 +185,13 @@ Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.
 Journal Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Information Forensics and Security (TIFS)
-- Future Generation Computer Systems
+- Future Generation Computer Systems (FGCS)
 
 Conference Reviewer
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-- International Joint Conference on Neural Networks (IJCNN)
+- The Fortieth Annual Conference on Neural Information Processing Systems (NIPS)
+- International Symposium on Research in Attacks, Intrusions and Defenses (RAID).
 
 # ⚽ Hobbies
 Out of research, I’m a huge sports enthusiast with a broad range of interests. I’m passionate about sports, especially tennis, soccer and snowboarding. I also engoy music, especially singing while accompanying myself on gituar.
@@ -199,7 +200,7 @@ Out of research, I’m a huge sports enthusiast with a broad range of interests.
 - Tennis, 3.5.
 - Snowboarding (black)/ Skiing(blue).
 
-Other activities I engage in include badminton, volleyball, swimming, squash, billiards, chinese chess, piano and so on.
+Other activities I engage in include badminton, volleyball, pickle ball, swimming, squash, billiards, chinese chess, piano, pork and so on.
 
 # 🎧 Monthly Song
 <div>
