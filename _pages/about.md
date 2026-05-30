@@ -22,8 +22,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 * Privacy in GNNs
 * Machine Unlearning
 * Privacy and Safety of LLM
-* Trustworthy Machine Learning (fairness, privacy and robustness)
-
+* Security of Coding Agent
 
 # 🔥 News
 <style>
@@ -60,7 +59,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 # 📝 Publications 
 * <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">ECML-PKDD'26</span>  Protecting K-Nearest Neighbor Queries from Location Inference Attacks\
-Zhiyu Sun, **Jie Fu**, Xinpeng Ling, Huifa Li, Zhili Chen\
+Zhiyu Sun, **Jie Fu (co-first author)**, Xinpeng Ling, Huifa Li, Zhili Chen\
 **European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2026**
   
 * <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">DSN'26</span>  In-Depth Exploration of Differentially Private Quantization for Privacy-Preserving and Communication-Efficient Federated Learning\
@@ -191,7 +190,9 @@ Conference Reviewer
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - The Fortieth Annual Conference on Neural Information Processing Systems (NIPS)
-- International Symposium on Research in Attacks, Intrusions and Defenses (RAID).
+- International Symposium on Research in Attacks, Intrusions and Defenses (RAID)
+- USENIX Security Symposium (USENIX Security), AE
+
 
 # ⚽ Hobbies
 Out of research, I’m a huge sports enthusiast with a broad range of interests. I’m passionate about sports, especially tennis, soccer and snowboarding. I also engoy music, especially singing while accompanying myself on gituar.
