@@ -17,12 +17,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 
 ### 🤔 Research Interests:
-* Differential Privacy
-* Federated Learning
-* Privacy in GNNs
-* Machine Unlearning
-* Privacy and Safety of LLM
-* Security of Coding Agent
+Differential Privacy, Federated Learning, Privacy in GNNs, Machine Unlearning, Privacy and Safety of LLM, Security of Coding Agent
 
 # 🔥 News
 <style>
