@@ -77,7 +77,7 @@ Xingpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Huifa Li, Tong Cheng a
 Tong Cheng, **Jie Fu (co-corresponding author)**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Junqing Gong. \
 **25th IEEE International Conference on Data Mining (ICDM), 2025.**
   
-* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">ACM CCS'26</span>  Safeguarding Graph Neural Networks against Topology Inference Attacks. [[PDF](https://arxiv.org/abs/2509.05429)]\
+* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">ACM CCS'25</span>  Safeguarding Graph Neural Networks against Topology Inference Attacks. [[PDF](https://arxiv.org/abs/2509.05429)]\
 **Jie Fu**, Yuan Hong, Zhili Chen and Wendy Hui Wang. \
 **In Proceedings of the 32nd ACM Conference on Computer and Communications Security (ACM CCS), 2025**
 
