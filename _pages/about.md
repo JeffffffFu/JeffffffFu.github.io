@@ -74,7 +74,7 @@ Shan Huang, Zhijing Ye, Jiamin Wang, Zhaorui Zhang, **Jie Fu**, Wendy Hui Wang, 
 **Jie Fu**, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao \
 **ACM Computing Surveys (CSUR)** 
 
-* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">ACNS'26</span>  FedFDP: Fairness-Aware Federated Learning with Differential Privacy. [[PDF](https://arxiv.org/abs/2402.16028])]\
+* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">ACNS'26</span>  FedFDP: Fairness-Aware Federated Learning with Differential Privacy. [[PDF](https://arxiv.org/abs/2402.16028)]\
 Xingpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Huifa Li, Tong Cheng and Zhili Chen. \
 **24th Internation Conference on Applied Cryptogragy and Network Security (ACNS), 2026.**
   
