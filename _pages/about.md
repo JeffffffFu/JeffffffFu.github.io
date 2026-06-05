@@ -53,7 +53,7 @@ Differential Privacy, Federated Learning, Privacy in GNNs, Machine Unlearning, P
 </div>
 
 # 📝 Publications 
-* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">ECML-PKDD'26</span>  Protecting K-Nearest Neighbor Queries from Location Inference Attacks\
+* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">ECML-PKDD'26</span>  Protecting K-Nearest Neighbor Queries from Location Inference Attacks [[PDF](https://arxiv.org/abs/2606.05648)]\
 Zhiyu Sun, **Jie Fu (co-first author)**, Xinpeng Ling, Huifa Li, Zhili Chen\
 **European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2026**
   
