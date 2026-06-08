@@ -73,7 +73,7 @@ Shan Huang, Zhijing Ye, Jiamin Wang, Zhaorui Zhang, **Jie Fu**, Wendy Hui Wang, 
 Xingpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Huifa Li, Tong Cheng and Zhili Chen. \
 **24th Internation Conference on Applied Cryptogragy and Network Security (ACNS), 2026.**
   
-* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">ICDM'26</span>  EC-LDA: Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression. [[PDF](https://arxiv.org/abs/2505.15140)]\
+* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">ICDM'25</span>  EC-LDA: Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression. [[PDF](https://arxiv.org/abs/2505.15140)]\
 Tong Cheng, **Jie Fu (co-corresponding author)**, Xingpeng Ling, Huifa Li, Zhili Chen, Haifeng Qian and Junqing Gong. \
 **25th IEEE International Conference on Data Mining (ICDM), 2025.**
   
