@@ -200,7 +200,7 @@ Other activities I engage in include piano, badminton, volleyball, pickle ball, 
 
 # 🎧 Monthly Song
 <div>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5FgPwJ7Nh2FVmIXviKl2VF?utm_source=generator" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2r882s7hYvQbDb5re5kZ6S?utm_source=generator&si=f73030da5347492f" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 <style>
    .scrollable2 {
@@ -211,6 +211,7 @@ Other activities I engage in include piano, badminton, volleyball, pickle ball, 
 
  <div class="scrollable2">
  <ul>
+  <li><strong>2026.07</strong>:&nbsp;《心碎双面胶》- 黄旭 </li> 
   <li><strong>2026.04</strong>:&nbsp;《Make you feel my love》- Adele </li> 
   <li><strong>2026.02</strong>:&nbsp;《用背脊唱情歌》- 汤令山 </li> 
   <li><strong>2026.01</strong>:&nbsp;《Hotel California》- Eagles </li> 
