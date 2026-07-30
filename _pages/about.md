@@ -29,6 +29,7 @@ Differential Privacy, Federated Learning, Privacy in GNNs, Machine Unlearning, P
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.07</strong>: &nbsp;🎉 Selected for the Chinese Government Award for Outstanding Students Abroad</li>
 <li><strong>2026.05</strong>: &nbsp;🎉 One paper is accepted by ECML-PKDD'26 </li>
 <li><strong>2026.05</strong>: &nbsp;🎉 I have became a visiting student in <a href="https://yhongcs.github.io/">Prof. Yuan Hong</a>' lab during the summer. </li>
 <li><strong>2026.04</strong>: &nbsp;🎉 One paper is accepted by DSN'26 </li>
@@ -164,6 +165,7 @@ Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 🏆 Honors and Awards
+- Chinese Government Award for Outstanding Students Abroad, 2026. 
 - Outstanding Master Graduate of Shanghai, 2024. 
 - Outstanding Master's Thesis of East China Normal University, 2024.
 
