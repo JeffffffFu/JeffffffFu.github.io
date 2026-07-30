@@ -179,18 +179,20 @@ Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.
 Journal Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Information Forensics and Security (TIFS)
-- Future Generation Computer Systems (FGCS)
+- IEEE Transactions on Moblie Computing (TMC)
 
 Conference Reviewer
+- USENIX Security Symposium (USENIX Security)
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - The Fortieth Annual Conference on Neural Information Processing Systems (NIPS)
+- Association for the Advancement of Artificial Intelligence (AAAI)
 - International Symposium on Research in Attacks, Intrusions and Defenses (RAID)
-- USENIX Security Symposium (USENIX Security), AE
+
 
 
 # ⚽ Hobbies
-Out of research, I’m a huge sports enthusiast with a broad range of interests. I’m passionate about sports, especially tennis, soccer and snowboarding. I also engoy music, especially singing while accompanying myself on gituar.
+Out of research, I’m a huge sports enthusiast with a broad range of interests. I’m passionate about sports, especially tennis, soccer and snowboarding. I also engoy music, especially singing while accompanying myself on gituar or pinao.
 - Soccer, college team captain. 
 - Guitar, club guitar instructor of college.
 - Tennis, 3.5.
@@ -199,6 +201,7 @@ Out of research, I’m a huge sports enthusiast with a broad range of interests.
 Other activities I engage in include piano, badminton, volleyball, pickle ball, swimming, squash, billiards, chinese chess, pork and so on.
 
 # 🎧 Monthly Song
+I will keep a record of the songs I hear each month that move me or that I find really enjoyable.
 <div>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2r882s7hYvQbDb5re5kZ6S?utm_source=generator&si=f73030da5347492f" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
