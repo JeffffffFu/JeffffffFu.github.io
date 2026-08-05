@@ -13,7 +13,7 @@ Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.st
 
 👋 CONTACT ME: jfu13 AT stevens.edu
 
-👋 RedNote（小红书）: JeffffffFu
+
 
 
 ### 🤔 Research Interests:
