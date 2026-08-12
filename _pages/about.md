@@ -203,7 +203,7 @@ Out of research, I’m a huge sports enthusiast with a broad range of interests.
 Other activities I engage in include piano, badminton, volleyball, pickle ball, swimming, squash, billiards, chinese chess, pork and so on.
 
 # 🎧 Monthly Song
-I will keep a record of the songs I hear each month that move me or that I find really enjoyable.
+I keep a record of the songs I hear each month that move me or that I find really enjoyable.
 <div>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2r882s7hYvQbDb5re5kZ6S?utm_source=generator&si=f73030da5347492f" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
@@ -241,8 +241,23 @@ I will keep a record of the songs I hear each month that move me or that I find 
 
  <div>
 
+# 📺 Annual Movies & TV
+I keep a record of the movies and TV shows that left a lasting impression on me every year.
+ <div class="scrollable2">
+ <ul>
+ <li><strong>2026</strong>:&nbsp; DTF St. Louis </li> 
+ <li><strong>2025</strong>:&nbsp;  Severance (人生切割术第一季) </li> 
+ <li><strong>2024</strong>:&nbsp; 漫长的季节 </li> 
+ <li><strong>2024</strong>:&nbsp; The Day of the Jackal (财狼的日子) </li> 
+ <li><strong>2023</strong>:&nbsp; True Detective Season 1 (真探第一季)</li> 
+ <li><strong>2023</strong>:&nbsp; Better Call Saul (风骚律师)</li> 
+ <li><strong>2022</strong>:&nbsp; 请回答1988 </li> 
+ <li><strong>2022</strong>:&nbsp; The Queen's Gambit (后翼弃兵)</li> 
+
+ </ul>
+ </div>
 -----------------------------------------
 
 </div>
 
-Last updated on: 2026.05
+Last updated on: 2026.08
