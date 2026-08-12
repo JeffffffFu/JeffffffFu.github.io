@@ -239,7 +239,7 @@ I keep a record of the songs I hear each month that move me or that I find reall
  </ul>
  </div>
 
- <div>
+
 
 # 📺 Annual Movies & TV
 I keep a record of the movies and TV shows that left a lasting impression on me every year.
@@ -256,6 +256,8 @@ I keep a record of the movies and TV shows that left a lasting impression on me 
 
  </ul>
  </div>
+
+<div>
 -----------------------------------------
 
 </div>
