@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 🧐 About Me
-Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a visiting student at the University of Connecticut (under the supervision of <a href="https://yhongcs.github.io/">Prof. Yuan Hong</a>).I also have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
+Hi, I am pursuing my PhD at the [Stevens Institute of Technology](https://www.stevens.edu/), advised by [Prof. Wendy Hui Wang](https://sites.google.com/view/wendy-wang/home). Before that, I got my master degree from [East China Normal University](https://english.ecnu.edu.cn/), under the supervision of [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I have worked as a visiting scholar at the University of Connecticut (under the supervision of <a href="https://yhongcs.github.io/">Prof. Yuan Hong</a>).I also have worked as a research assistant at the Hong Kong Polytechnic University (under the supervision of <a href="https://haibohu.org/">Prof. Haibo Hu</a> and <a href="https://www.qingqingye.net/">Dr. Qingqing Ye</a> ) and Hokkaido University (under the supervision of <a href="https://yangcao88.github.io/">Dr. Yang Cao</a>).
 
 👋 CONTACT ME: jfu13 AT stevens.edu
 
@@ -29,6 +29,7 @@ Differential Privacy, Federated Learning, Privacy in GNNs, Machine Unlearning, P
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.08</strong>: &nbsp;🎉 Selected for a "Noteworthy Reviewer Recognition" for USENIX Security 2026 Artifact Evaluation</li>
 <li><strong>2026.07</strong>: &nbsp;🎉 Selected for the Chinese Government Award for Outstanding Students Abroad</li>
 <li><strong>2026.05</strong>: &nbsp;🎉 One paper is accepted by ECML-PKDD'26 </li>
 <li><strong>2026.05</strong>: &nbsp;🎉 I have became a visiting student in <a href="https://yhongcs.github.io/">Prof. Yuan Hong</a>' lab during the summer. </li>
@@ -165,6 +166,7 @@ Xinpeng Ling, **Jie Fu (co-first author)**, Kuncan Wang, Haitao Liu, Zhili Chen.
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 🏆 Honors and Awards
+- Noteworthy Reviewer Recognition for USENIX Security'26 Artifact Evaluation, 2026.
 - Chinese Government Award for Outstanding Students Abroad, 2026. 
 - Outstanding Master Graduate of Shanghai, 2024. 
 - Outstanding Master's Thesis of East China Normal University, 2024.
@@ -184,12 +186,12 @@ Journal Reviewer
 - IEEE Transactions on Moblie Computing (TMC)
 
 Conference Reviewer
-- USENIX Security Symposium (USENIX Security)
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
-- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-- The Fortieth Annual Conference on Neural Information Processing Systems (NIPS)
-- Association for the Advancement of Artificial Intelligence (AAAI)
-- International Symposium on Research in Attacks, Intrusions and Defenses (RAID)
+- USENIX Security Symposium (USENIX Security)'27
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)'26
+- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'26
+- The Fortieth Annual Conference on Neural Information Processing Systems (NIPS)'26
+- Association for the Advancement of Artificial Intelligence (AAAI)'26
+- International Symposium on Research in Attacks, Intrusions and Defenses (RAID)'26
 
 
 
