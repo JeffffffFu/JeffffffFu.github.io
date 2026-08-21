@@ -29,6 +29,7 @@ Differential Privacy, Federated Learning, Privacy in GNNs, Machine Unlearning, P
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.08</strong>: &nbsp;🎉 One paper is accepted by EMNLP'26 </li>
 <li><strong>2026.08</strong>: &nbsp;🎉 Selected for a "Noteworthy Reviewer Recognition" for USENIX Security 2026 Artifact Evaluation</li>
 <li><strong>2026.07</strong>: &nbsp;🎉 Selected for the Chinese Government Award for Outstanding Students Abroad</li>
 <li><strong>2026.05</strong>: &nbsp;🎉 One paper is accepted by ECML-PKDD'26 </li>
@@ -55,6 +56,10 @@ Differential Privacy, Federated Learning, Privacy in GNNs, Machine Unlearning, P
 </div>
 
 # 📝 Publications 
+* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">EMNLP'26</span>  Towards Fine-grained and Robust Detection of Human–AI Co-authorship \
+Ziruo Zhao, **Jie Fu**, Wendy Hui Wang, Zining Zhu \
+**The 2026 Conference on Empirical Methods in Natural Language Processing(EMNLP), 2026**
+  
 * <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">ECML-PKDD'26</span>  Protecting K-Nearest Neighbor Queries from Location Inference Attacks [[PDF](https://arxiv.org/abs/2606.05648)]\
 Zhiyu Sun, **Jie Fu (co-first author)**, Xinpeng Ling, Huifa Li, Zhili Chen\
 **European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2026**
