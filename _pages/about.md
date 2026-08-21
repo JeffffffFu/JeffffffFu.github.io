@@ -33,7 +33,7 @@ Differential Privacy, Federated Learning, Privacy in GNNs, Machine Unlearning, P
 <li><strong>2026.08</strong>: &nbsp;🎉 Selected for a "Noteworthy Reviewer Recognition" for USENIX Security 2026 Artifact Evaluation</li>
 <li><strong>2026.07</strong>: &nbsp;🎉 Selected for the Chinese Government Award for Outstanding Students Abroad</li>
 <li><strong>2026.05</strong>: &nbsp;🎉 One paper is accepted by ECML-PKDD'26 </li>
-<li><strong>2026.05</strong>: &nbsp;🎉 I have became a visiting student in <a href="https://yhongcs.github.io/">Prof. Yuan Hong</a>' lab during the summer. </li>
+<li><strong>2026.05</strong>: &nbsp;🎉 I have became a visiting scholor in <a href="https://yhongcs.github.io/">Prof. Yuan Hong</a>' lab during the summer. </li>
 <li><strong>2026.04</strong>: &nbsp;🎉 One paper is accepted by DSN'26 </li>
 <li><strong>2026.03</strong>: &nbsp;🎉 One paper is accepted by Euro S&amp;P'26 (Acceptance Rate: 50/460=11.7%) </li>
 <li><strong>2026.02</strong>: &nbsp;🎉 One paper is accepted by CSCWD'26 </li>
