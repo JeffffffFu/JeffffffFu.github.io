@@ -57,7 +57,7 @@ Differential Privacy, Federated Learning, Privacy in GNNs, Machine Unlearning, P
 </div>
 
 # 📝 Publications 
-* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">EMNLP'26</span>  SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing \
+* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">NeurIPS'26</span>  SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing \
 Jialong Sun, Zeming Wei, Jiaxuan Zou, Jiacheng Gong, Chengyang Dong, **Jie Fu**, Heng Xu, Jialong Li, Bo Liu  \
 **The Fortieth Annual Conference on Neural Information Processing Systems(NeurIPS), 2026**
 
