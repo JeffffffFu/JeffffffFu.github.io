@@ -29,6 +29,7 @@ Differential Privacy, Federated Learning, Privacy in GNNs, Machine Unlearning, P
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.09</strong>: &nbsp;🎉 One paper is accepted by NeurIPS'26 </li>
 <li><strong>2026.08</strong>: &nbsp;🎉 One paper is accepted by EMNLP'26 </li>
 <li><strong>2026.08</strong>: &nbsp;🎉 Selected for a "Noteworthy Reviewer Recognition" for USENIX Security 2026 Artifact Evaluation</li>
 <li><strong>2026.07</strong>: &nbsp;🎉 Selected for the Chinese Government Award for Outstanding Students Abroad</li>
@@ -56,6 +57,10 @@ Differential Privacy, Federated Learning, Privacy in GNNs, Machine Unlearning, P
 </div>
 
 # 📝 Publications 
+* <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">EMNLP'26</span>  SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing \
+Jialong Sun, Zeming Wei, Jiaxuan Zou, Jiacheng Gong, Chengyang Dong, **Jie Fu**, Heng Xu, Jialong Li, Bo Liu  \
+**The Fortieth Annual Conference on Neural Information Processing Systems(NeurIPS), 2026**
+
 * <span style="display:inline-block;background-color:#1f3a93;color:white;padding:4px 8px;border-radius:6px;font-size:13px;font-weight:600;line-height:1.2;white space:nowrap;">EMNLP'26</span>  Towards Fine-grained and Robust Detection of Human–AI Co-authorship \
 Ziruo Zhao, **Jie Fu**, Wendy Hui Wang, Zining Zhu \
 **The 2026 Conference on Empirical Methods in Natural Language Processing(EMNLP), 2026**
@@ -189,6 +194,7 @@ Journal Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Information Forensics and Security (TIFS)
 - IEEE Transactions on Moblie Computing (TMC)
+- Neurocomputing
 
 Conference Reviewer
 - USENIX Security Symposium (USENIX Security)'27
@@ -212,7 +218,7 @@ Other activities I engage in include piano, badminton, volleyball, pickle ball, 
 # 🎧 Monthly Song
 I keep a record of the songs I hear each month that move me or that I find really enjoyable.
 <div>
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2r882s7hYvQbDb5re5kZ6S?utm_source=generator&si=f73030da5347492f" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0M7YiMq9KiC9rW3GapANfL?utm_source=generator&si=5154fc6a1baa4a84" width="50%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 <style>
    .scrollable2 {
@@ -223,6 +229,7 @@ I keep a record of the songs I hear each month that move me or that I find reall
 
  <div class="scrollable2">
  <ul>
+  <li><strong>2026.08</strong>:&nbsp;《颜色》- 汤令山 </li> 
   <li><strong>2026.07</strong>:&nbsp;《心碎双面胶》- 黄旭 </li> 
   <li><strong>2026.04</strong>:&nbsp;《Make you feel my love》- Adele </li> 
   <li><strong>2026.02</strong>:&nbsp;《用背脊唱情歌》- 汤令山 </li> 
@@ -257,6 +264,7 @@ I keep a record of the songs I hear each month that move me or that I find reall
 I keep a record of the movies and TV shows that left a lasting impression on me every year.
  <div class="scrollable3">
  <ul>
+  <li><strong>2026</strong>:&nbsp; Tip Toe </li> 
  <li><strong>2026</strong>:&nbsp; DTF St. Louis </li> 
  <li><strong>2025</strong>:&nbsp;  Severance (人生切割术第一季) </li> 
  <li><strong>2024</strong>:&nbsp; 漫长的季节 </li> 
@@ -274,4 +282,4 @@ I keep a record of the movies and TV shows that left a lasting impression on me 
 
 </div>
 
-Last updated on: 2026.08
+Last updated on: 2026.09
